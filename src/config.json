@@ -1,0 +1,313 @@
+{
+    "Sidebar": {
+      "Profile": {
+        "Name": "RAWIN KUMAR",
+        "Image": "https://lh3.googleusercontent.com/a-/AOh14GizWmPUjLbarlFfO6vSrjewDKaGPQFbC1Du2FC8_Q=s96-c-rg-br100",
+        "Role": "Front-end Developer"
+      },
+      "ContactInfo": [
+        {
+          "Icon": "phone",
+          "Text": "+91 9818771015"
+        },
+        {
+          "Icon": "envelope-o",
+          "Text": "robinmedco2002@gmail.com",
+          "link": "mailto:robinmedco2002@gmail.com"
+        },
+        {
+          "Icon": "globe",
+          "Text": "devrawin.com"
+        },
+        {
+          "Icon": "linkedin",
+          "Text": "linkedin"
+        },
+        {
+          "Icon": "map-marker",
+          "Text": "New Delhi, India"
+        }
+      ],
+      "Education": [
+        {
+          "Years": "2009 - 2012",
+          "Degree": "Graduation",
+          "Univ": "Delhi University "
+        },
+        {
+          "Years": "2000 - 2002",
+          "Degree": "Intermediate Science Degree",
+          "Univ": "Jharkhand Education Board"
+        }       
+      ],
+
+      "TEducation": [
+       
+        {
+          "TDegree": "Dual Diploma Certification in multimedia & Web Engineering",
+          "TUniv": "Arena Multimedia, Jamshedpur"
+        }
+      ],
+
+
+      "Course": [
+        {
+          "Name": "● React Js ",
+          "Mark": 50
+        },
+        {
+          "Name": "● HTML5",
+          "Mark": 90
+        },
+        {
+          "Name": "● CSS3",
+          "Mark": 85
+        },
+        {
+          "Name": "● JavaScript",
+          "Mark": 70
+        },
+        {
+          "Name": "● Bootstrap",
+          "Mark": 75
+        },
+        {
+          "Name": "● jQuery",
+          "Mark": 75
+        },
+        {
+          "Name": "● XML",
+          "Mark": 85
+        },
+        {
+          "Name": "● Cordova",
+          "Mark": 60
+        },
+        {
+          "Name": "● XCode",
+          "Mark": 50
+        },
+        {
+          "Name": "● Eclipse",
+          "Mark": 65
+        },
+          {
+            "Name": "● SDK",
+            "Mark": 70
+          },
+          {
+            "Name": "● Adobe Photoshop",
+            "Mark": 95
+          },
+          {
+            "Name": "● Adobe Premier",
+            "Mark": 85
+          },
+        
+        {
+          "Name": "● Adobe After Effects",
+          "Mark": 80
+        }
+       
+      ],
+
+
+      "Expertise": [
+        {
+          "Name": "● Team Lead "
+         
+        },
+        {
+          "Name": "● Project Handling"
+          
+        },
+        {
+          "Name": "● UI/UX Design"
+         
+        },
+        {
+          "Name": "● CMS Websites"
+         
+        },
+        {
+          "Name": "● e-commerce Websites"
+         
+        },
+        {
+          "Name": "● Web Development"
+         
+        },
+        {
+          "Name": "● Graphic Design"
+        },
+        {
+          "Name": "● Visualization"
+        },
+        {
+          "Name": "● Branding"
+        },
+        {
+          "Name": "● Mobile App Design"
+        },
+        {
+          "Name": "● E-mailers"
+        }
+      ],
+
+
+
+      "Language": [
+        {
+          "Name": "● Hindi",
+          "Mark": 50
+        },
+        {
+          "Name": "● English",
+          "Mark": 90
+        }
+      ],
+
+     
+
+      "About": [
+        {
+          "Title": "Father's Name :",
+          "Text": " Mr. A. P. Gupta"
+        },
+        {
+          "Title": "Gender :",
+          "Text": " Male"
+        },
+        {
+          "Title": "Date of Birth :",
+          "Text": " 12 January, 1983"
+        },
+        {
+          "Title": "Mobile Number :",
+          "Text":  9818771015
+        },
+        {
+          "Title": "Marital Status :",
+          "Text": " Married"
+        }
+         
+        
+      ],
+
+
+
+      "Experience": [
+       
+        {
+          "Expyear": "October 2020 – Present",
+          "Exppost": "Web Developer (Part Time) ",
+          "Expcomname": "ismart Infosoft",
+          "Expdetails": [
+            "It’s a Digital Marketing & Web Development company, providing web design, web development,",
+            "Social media marketing & SEO services to its clients. In this organization as the",
+            "senior web designer & developer, my core activities included:"],
+
+            "Point1" :"• Build responsive websites using React js. ",
+            "Point2" :"• Web Application designing & Development",
+            "Point3" :"• Write coding using HTML, JavaScript, CSS, JSX",
+            "Point4" :"• Modify existing code as needed.",
+            "Point5" :"• Design new features for existing websites",
+            "Point6" :"• Customize themes to meet clients’ requirements",
+            "Point7" :"• Assist in website traffic and performance monitoring"
+        },
+
+        {
+          "Expyear": "March 2015 – July 2020",
+          "Exppost": "Web Developer ",
+          "Expcomname": "Hardev Singh Photography ",
+          "Expdetails": [
+            "This organization works for Luxury Hotels and Real-estate Industry Worldwide. ",
+            " They do Online & offline web applications & mobile app development. In this",
+            "senior web designer & developer, my core activities included:"],
+
+            "Point1" :"• Responsive Web Development ",
+            "Point2" :"• Web Application designing & Development, Mobile Application ",
+            "Point3" :"• Development (iOS & Android), 360 Virtual tour programming",
+            "Point4" :"• Planning site designs, functionality and navigation, along with audience funnels and data capture points.  ",
+            "Point5" :"• Building wireframes & prototypes which were then turned into functional and responsive digital products",
+            "Point6" :"• Handling all composition, colour, typography, and branding for projects.",
+            "Point7" :"• Creating landing pages using Angular, Html5, CSS, JavaScript"
+        },
+
+        {
+          "Expyear": "April 2014 – March 2015",
+          "Exppost": "Web Designer ",
+          "Expcomname": "Hardev Singh Photography ",
+      
+
+            "Point1" :"• Responsive Web Designing ",
+            "Point2" :"• 360 Virtual tour designing",
+            "Point3" :"• Planning site designs, functionality and navigation",
+            "Point4" :"• Handling all composition, colour, typography, and branding for projects"
+          
+        },
+        {
+          "Expyear": "July 2012 – April 2014",
+          "Exppost": "Web & Flash Designer  ",
+          "Expcomname": "Macro Graphics Pvt. Ltd. ",
+          "Expdetails": [
+            "It’s a Print & Web Development company, providing print and web design,  ",
+            " web development, Flash Development, Animation & SEO services to its clients. ",
+            "In this organization as the web & flash designer, my core activities included: "],
+
+            "Point1" :"• Build websites ",
+            "Point2" :"• Web Application designing & Development ",
+            "Point3" :"• Build Flash based website",
+            "Point4" :"• Flash Project  ",
+            "Point5" :"• Flash Animation",
+            "Point6" :"• E-learning website",
+            "Point7" :"• Updating and maintaining website"
+        },
+        {
+          "Expyear": "October 2011 – July 2012",
+          "Exppost": "Flash Designer  ",
+          "Expcomname": "S. Chand Technology Pvt. Ltd     ",
+          "Expdetails": [
+            "It’s a Book Publishing company, providing print and CBT and WBT Publishing   ",
+            " Company. Flash Development, Animation for Study material. In this organization ",
+            " as the flash designer, my core activities included:  "],
+
+            "Point1" :"• Build CBT  ",
+            "Point2" :"• Build WBT",
+            "Point3" :"• Flash Programming ",
+            "Point4" :"• Flash Animation  ",
+            "Point5" :"• E-learning website",
+            "Point6" :"• Updating and maintaining CBT & WBT",
+            "Point7" :"• Audio / video editing"
+        },
+
+        {
+          "Expyear": "October 2010 – October 2011",
+          "Exppost": "Flash Designer  ",
+          "Expcomname": "Algorithm Infosoft  Pvt. Ltd     ",
+          "Expdetails": [
+            "It’s a Application Development, web Solution and IT Enabled Service companies.    ",
+            " The multimedia design division of the Algorithm creates educational interactive",
+            "  CDs. In this organization as the flash designer, my core activities included:   "],
+
+            "Point1" :"• Build CBT  ",
+            "Point2" :"• Build WBT",
+            "Point3" :"• Flash Programming ",
+            "Point4" :"• Flash Animation  ",
+            "Point5" :"• Director Animation & Lingo script",
+            "Point6" :"• Updating and maintaining CBT & WBT",
+            "Point7" :"• Audio / video editing"
+        }
+      ]
+
+      
+      
+
+        
+     
+
+
+
+    }
+  }
+  
